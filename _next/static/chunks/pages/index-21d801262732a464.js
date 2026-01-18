@@ -214,7 +214,7 @@
                                         }), (0, a.jsxs)("div", {
                                             className: "flex justify-center md:justify-start items-center gap-3 w-full mt-5",
                                             children: [(0, a.jsxs)("a", {
-                                                href: "https://www.dextools.io",
+                                                href: "https://www.dextools.io/app/en/base/pair-explorer/0xcomingsoon?t=1768765093078",
                                                 className: "pepe-button",
                                                 children: [(0, a.jsx)(r.Z, {
                                                     src: "https://s2.coinmarketcap.com/static/img/coins/200x200/5866.png",
@@ -227,7 +227,7 @@
                                                     children: "Chart"
                                                 })]
                                             }), (0, a.jsxs)("a", {
-                                                href: "https://t.me/GoroMattFurie",
+                                                href: "https://t.me/BEASTBRETT",
                                                 className: "pepe-button",
                                                 children: [(0, a.jsx)(r.Z, {
                                                     src: "https://pngimg.com/uploads/telegram/telegram_PNG12.png",
@@ -240,7 +240,7 @@
                                                     children: "Telegram"
                                                 })]
                                             }), (0, a.jsxs)("a", {
-                                                href: "https://x.com/GoroMattFurie",
+                                                href: "https://x.com/beast_brett",
                                                 className: "pepe-button",
                                                 children: [(0, a.jsx)(r.Z, {
                                                     src: "https://toppng.com/public/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp",
@@ -253,7 +253,7 @@
                                                     children: "Twitter"
                                                 })]
                                             }), (0, a.jsxs)("a", {
-                                                href: "https://dexscreener.com",
+                                                href: "https://dexscreener.com/base/0xcomingsoon",
                                                 className: "pepe-button",
                                                 children: [(0, a.jsx)(r.Z, {
                                                     src: "https://pbs.twimg.com/profile_images/1462287879565201409/5UYqudVs.jpg",
@@ -459,7 +459,7 @@
                                     children: (0, a.jsxs)("div", {
                                         className: "flex flex-wrap justify-center items-center gap-3 w-full mt-5",
                                         children: [(0, a.jsxs)("a", {
-                                            href: "https://t.me/GoroMattFurie",
+                                            href: "https://t.me/BEASTBRETT",
                                             className: "pepe-button",
                                             children: [(0, a.jsx)(r.Z, {
                                                 src: "https://pngimg.com/uploads/telegram/telegram_PNG12.png",
@@ -472,7 +472,7 @@
                                                 children: "Telegram"
                                             })]
                                         }), (0, a.jsxs)("a", {
-                                            href: "https://x.com/GoroMattFurie",
+                                            href: "https://x.com/beast_brett",
                                             className: "pepe-button",
                                             children: [(0, a.jsx)(r.Z, {
                                                 src: "https://toppng.com/public/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp",
@@ -485,7 +485,7 @@
                                                 children: "Twitter"
                                             })]
                                         }), (0, a.jsxs)("a", {
-                                            href: "https://www.dextools.io",
+                                            href: "https://www.dextools.io/app/en/base/pair-explorer/0xcomingsoon?t=1768765093078",
                                             className: "pepe-button",
                                             children: [(0, a.jsx)(r.Z, {
                                                 src: "https://s2.coinmarketcap.com/static/img/coins/200x200/5866.png",
@@ -498,7 +498,7 @@
                                                 children: "Chart"
                                             })]
                                         }), (0, a.jsxs)("a", {
-                                            href: "https://dexscreener.com",
+                                            href: "https://dexscreener.com/base/0xcomingsoon",
                                             className: "pepe-button",
                                             children: [(0, a.jsx)(r.Z, {
                                                 src: "https://pbs.twimg.com/profile_images/1462287879565201409/5UYqudVs.jpg",
