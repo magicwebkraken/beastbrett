@@ -210,11 +210,11 @@
                                             children: "BEASTBRETT is the newest character created by artist Matt Furie. Introduced recently on Furie's official Instagram, BEASTBRETT continues his tradition of blending surreal humor, vibrant colors, and expressive, whimsical design."
                                         }), (0, a.jsx)("p", {
                                             className: "text-white md:text-xl text-center break-all my-5 md:text-start bg-pepeDark rounded-xl p-4 font-mono border-3 border-black shadow-cartoon",
-                                            children: "0xcomingsoon"
+                                            children: "0x66424d7e0bd83d7475578d041115d93aa9e04807"
                                         }), (0, a.jsxs)("div", {
                                             className: "flex justify-center md:justify-start items-center gap-3 w-full mt-5",
                                             children: [(0, a.jsxs)("a", {
-                                                href: "https://www.dextools.io/app/en/base/pair-explorer/0xcomingsoon?t=1768765093078",
+                                                href: "https://www.dextools.io/app/en/base/pair-explorer/0x66424d7e0bd83d7475578d041115d93aa9e04807?t=1768765093078",
                                                 className: "pepe-button",
                                                 children: [(0, a.jsx)(r.Z, {
                                                     src: "https://s2.coinmarketcap.com/static/img/coins/200x200/5866.png",
@@ -253,7 +253,7 @@
                                                     children: "Twitter"
                                                 })]
                                             }), (0, a.jsxs)("a", {
-                                                href: "https://dexscreener.com/base/0xcomingsoon",
+                                                href: "https://dexscreener.com/base/0x66424d7e0bd83d7475578d041115d93aa9e04807",
                                                 className: "pepe-button",
                                                 children: [(0, a.jsx)(r.Z, {
                                                     src: "https://pbs.twimg.com/profile_images/1462287879565201409/5UYqudVs.jpg",
@@ -376,7 +376,7 @@
                                         children: "Contract Address"
                                     }), (0, a.jsx)("p", {
                                         className: "text-white bg-pepeDark text-center break-all font-mono p-4 rounded-xl border-3 border-black shadow-cartoon text-lg",
-                                        children: "0xcomingsoon"
+                                        children: "0x66424d7e0bd83d7475578d041115d93aa9e04807"
                                     })]
                                 })
                             })]
@@ -485,7 +485,7 @@
                                                 children: "Twitter"
                                             })]
                                         }), (0, a.jsxs)("a", {
-                                            href: "https://www.dextools.io/app/en/base/pair-explorer/0xcomingsoon?t=1768765093078",
+                                            href: "https://www.dextools.io/app/en/base/pair-explorer/0x66424d7e0bd83d7475578d041115d93aa9e04807?t=1768765093078",
                                             className: "pepe-button",
                                             children: [(0, a.jsx)(r.Z, {
                                                 src: "https://s2.coinmarketcap.com/static/img/coins/200x200/5866.png",
@@ -498,7 +498,7 @@
                                                 children: "Chart"
                                             })]
                                         }), (0, a.jsxs)("a", {
-                                            href: "https://dexscreener.com/base/0xcomingsoon",
+                                            href: "https://dexscreener.com/base/0x66424d7e0bd83d7475578d041115d93aa9e04807",
                                             className: "pepe-button",
                                             children: [(0, a.jsx)(r.Z, {
                                                 src: "https://pbs.twimg.com/profile_images/1462287879565201409/5UYqudVs.jpg",
